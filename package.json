@@ -1,0 +1,26 @@
+{
+  "name": "react-native-shadow-cards",
+  "version": "1.0.1",
+  "description": "Native CardView that compatible for iOS and Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aamirali86/react-native-shadow-cards.git"
+  },
+  "keywords": [
+    "react-native",
+    "cardview",
+    "shadow",
+    "view",
+    "react-native-shadow-cards"
+  ],
+  "author": "Aamir ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aamirali86/react-native-shadow-cards/issues"
+  },
+  "homepage": "https://github.com/Aamirali86/react-native-shadow-cards#readme"
+}
