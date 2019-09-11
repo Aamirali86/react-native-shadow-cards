@@ -1,5 +1,5 @@
 # react-native-shadow-cards
-Simple and animated radio button component for React Native
+Simple card view component for React Native
 
 
 Screenshot
