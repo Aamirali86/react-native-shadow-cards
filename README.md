@@ -4,9 +4,7 @@ Simple card view component for React Native
 
 Screenshot
 ---
-
-![Demo](./screenshots/screenshot.png)
-
+<img src="./screenshots/screenshot.png" alt="screenshot"  width="40%"/>
 
 ## Installation
 
