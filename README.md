@@ -1,7 +1,6 @@
 # react-native-shadow-cards
 Simple card view component for React Native
 
-
 Screenshot
 ---
 
